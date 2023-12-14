@@ -13,8 +13,12 @@ nav:
   - 游戏:
     - 游戏/女神异闻录P5R.md
     - 游戏/塞尔达.md
+    - 游戏/原神.md
   - 旅行:
     - 旅行/南京.md
+    - 旅行/平潭.md
+  - 教程:
+    - 教程/载入视频音频教程.md
 # [UI]
 ## [top]
 theme:
@@ -49,7 +53,7 @@ edit_uri: edit/main/docs # 编辑按钮跳转的链接
 repo_url: https://github.com/Cheng-lian # 右上角点击跳转的链接
 repo_name: Cheng-lian.github.io # 右上角的名字
 ## [bottom-left corner]
-copyright: 辰镰 CC-BY-4.0 # 左下角的版权声明
+copyright: 辰镰 Apache-2.0 # 左下角的版权声明
 ## [bottom-right corner]
 extra:
   social: # icons
@@ -59,7 +63,9 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/Cheng-lian
       name: GitHub | Cheng-lian
-
+    - icon: fontawesome/brands/抖音
+      link: https://www.douyin.com/user/self
+      name: 抖音 | 程一🍊
 # [Extensions]
 plugins:
   - search: # 现在还不支持中文搜索 支持之后可以设置语言
